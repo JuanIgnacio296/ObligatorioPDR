@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProgramacionC\\ObligatorioPDR\\Edison\\Edison\\Edison.csproj",
+      "projectUniqueName": "C:\\ProgramacionC\\ObligatorioPDR\\src\\Edison\\Edison\\Edison.csproj",
       "projectName": "Edison",
-      "projectPath": "C:\\ProgramacionC\\ObligatorioPDR\\Edison\\Edison\\Edison.csproj",
+      "projectPath": "C:\\ProgramacionC\\ObligatorioPDR\\src\\Edison\\Edison\\Edison.csproj",
       "packagesPath": "C:\\Users\\juanf\\.nuget\\packages\\",
-      "outputPath": "C:\\ProgramacionC\\ObligatorioPDR\\Edison\\Edison\\obj\\",
+      "outputPath": "C:\\ProgramacionC\\ObligatorioPDR\\src\\Edison\\Edison\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
